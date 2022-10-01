@@ -1,4 +1,4 @@
-venv/
+coffee_env/
 .vscode/
 __pycache__/
 test.db
